@@ -2,7 +2,6 @@ import sys
 
 v = sys.version
 
-#      print v
 
 if "2.7" in v:
   from Tkinter import *
