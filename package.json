@@ -1,0 +1,24 @@
+{
+  "name": "notVim",
+  "version": "1.0.0",
+  "description": "My first attempt at creating a text editor, mostly because I want to know how they work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmed/notVim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmed/notVim/issues"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "promise": "^7.1.1"
+  },
+  "homepage": "https://github.com/itsmed/notVim#readme"
+}
